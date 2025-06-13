@@ -1,1 +1,4 @@
-# fx3-board
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+/backups/
